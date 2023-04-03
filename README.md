@@ -21,6 +21,11 @@
   
 </div><br/>
 
-Apaixonado por programação e desafios. Aprendendo cada vez mais todos os dias. Adoro livros, música e ajudar as  pessoas.<br/>
-Passionate about programming and challenges. Learning more and more every day.
+✔Sou um Desenvolvedor Web apaixonado por aprender e enfrentar desafios. Minha experiência inclui a análise de dados e mercado para criar soluções inovadoras, gerenciar projetos, negociar e apoiar a entrega de soluções de alta qualidade.
+
+Eu estou sempre buscando aperfeiçoamento profissional e formação continuada para melhorar minhas habilidades em planejamento, gerenciamento e transformação digital. Alcançar os objetivos e cumprir prazos é meu compromisso para garantir que os projetos sejam entregues com sucesso.
+
+Como desenvolvedor, atuo com redes, servidores, sistemas, computação em nuvem, DevOps, segurança cibernética, programação, firewall, JavaScript, Python e metodologias ágeis. Minha experiência inclui arquitetura de software, gestão de demanda, Big Data, mineração de dados e microsserviços.
+
+Estou sempre disposto a enfrentar desafios e encontrar soluções criativas para problemas complexos. Minha paixão pela tecnologia me impulsiona a inovar e entregar soluções de alta qualidade para meus clientes e colegas de equipe.
 I love books, music and helping people.
