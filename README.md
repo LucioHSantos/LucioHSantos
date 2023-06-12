@@ -2,7 +2,7 @@
 ### Olá, eu sou o Lucio Santos 🤚 / Hello, I'm  Lucio Santos 🤚
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucio-henrique-567999207/)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucioHSantos&theme=dark&show_icons=true)
+
 
 
 
@@ -30,3 +30,5 @@ Como desenvolvedor, atuo com redes, servidores, sistemas, computação em nuvem,
 
 Estou sempre disposto a enfrentar desafios e encontrar soluções criativas para problemas complexos. Minha paixão pela tecnologia me impulsiona a inovar e entregar soluções de alta qualidade para meus clientes e colegas de equipe.
 I love books, music and helping people.
+<br/>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucioHSantos&theme=tokyonight&show_icons=true)
