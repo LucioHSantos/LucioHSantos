@@ -30,8 +30,9 @@ Como desenvolvedor, atuo com redes, servidores, sistemas, computação em nuvem,
 
 Estou sempre disposto a enfrentar desafios e encontrar soluções criativas para problemas complexos. Minha paixão pela tecnologia me impulsiona a inovar e entregar soluções de alta qualidade para meus clientes e colegas de equipe.
 I love books, music and helping people.
-<br/>
+<br>
 
-  <img  src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucioHSantos&theme=tokyonight&show_icons=true)">
-  <img  src="[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=LucioHSantos&layout=compact)">
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucioHSantos&theme=tokyonight&show_icons=true)
+  <br>
+  [Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=LucioHSantos&layout=compact)
 
