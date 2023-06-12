@@ -2,6 +2,7 @@
 ### Olá, eu sou o Lucio Santos 🤚 / Hello, I'm  Lucio Santos 🤚
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucio-henrique-567999207/)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucioHSantos&theme=dark&show_icons=true)
 
 
 
