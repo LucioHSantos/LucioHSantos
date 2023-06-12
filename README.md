@@ -32,6 +32,6 @@ Estou sempre disposto a enfrentar desafios e encontrar soluções criativas para
 I love books, music and helping people.
 <br/>
 
-  <img heigth = "150em" src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucioHSantos&theme=tokyonight&show_icons=true)">
-  <img heigth = "150em" src="[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=LucioHSantos&layout=compact)">
+  <img  src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucioHSantos&theme=tokyonight&show_icons=true)">
+  <img  src="[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=LucioHSantos&layout=compact)">
 
